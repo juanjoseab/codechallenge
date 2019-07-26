@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Xoom Country List</string>
+    <string name="no_wifi_text">Your device does not have internet access.  Please, chack this and try again using the button bellow!</string>
+    <string name="lblCheckInternet">Check your connection!</string>
+</resources>
