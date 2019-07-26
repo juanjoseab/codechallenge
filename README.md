@@ -1,8 +1,8 @@
-# Xoom Code Challege
+# Xoom Code Challenge
 this challenge consists in Develop an Android Mobile Application.
 The key features were:
 - Create a mobile app that can get from an API the list of all countries where Xoom has disbursement options
-- The user can mark countries as favorite by clickin on a start
+- The user can mark countries as favorite by clicking on a start
 - If the country is a favorite, this will be order at the top of the list and the country row will have a mark as a favorite.
 - The favorites should be persistents even if the user reload or restart the application.
 - The list should be loaded as a paginate list.  So the API should supports this requirement enabling sending page and items per page parameters.
